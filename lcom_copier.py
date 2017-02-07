@@ -1,7 +1,8 @@
 """
 author: phaesoo
-e-mail : phaesoo@gmail.com
+e-mail: phaesoo@gmail.com
 description: for copy load combination files
+version: python 3.5.2
 """
 
 import os
